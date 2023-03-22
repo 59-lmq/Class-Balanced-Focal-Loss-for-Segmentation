@@ -1,6 +1,8 @@
 # Class-Balanced-Focal-Loss-for-Segmentation
 用于语义分割的Class Balanced Focal Loss代码
-# Class-Balanced Loss
+原论文链接：https://doi.org/10.48550/arXiv.1901.05555
+
+# Class-Balanced Loss 的个人理解
 
 ## 1、图像分类
 
